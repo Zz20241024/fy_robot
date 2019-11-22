@@ -6,7 +6,7 @@
 pip install requests==2.20.1  
 pip install selenium==3.141.0
 #
-##作者信息
+## 作者信息
 作者:牛仔很忙  
 QQ:752477168  
 QQ群:779726535  
